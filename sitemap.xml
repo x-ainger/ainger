@@ -4,6 +4,28 @@
   
   <url>
     <loc>https://www.ainger.cn/</loc>
+    <lastmod>2019-11-17T14:37:30+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ainger.cn/2019/11/blabla/</loc>
+    <lastmod>2019-11-17T14:37:30+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ainger.cn/posts/</loc>
+    <lastmod>2019-11-17T14:37:30+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ainger.cn/2019/11/mac-%E9%94%AE%E7%9B%98%E5%BF%AB%E6%8D%B7%E9%94%AE%E7%AC%A6%E5%8F%B7%E5%9B%BE%E4%BE%8B/</loc>
+    <lastmod>2019-11-06T15:07:19+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
