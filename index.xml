@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ainger&#39;s Blog</title>
-    <link>http://ainger.github.io/</link>
+    <link>http://x-ainger.github.io/</link>
     <description>Recent content on Ainger&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     
-        <atom:link href="http://ainger.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://x-ainger.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
